@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="115.0" prefWidth="262.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+  <children>
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+      <children>
+            <Button id="btn" fx:id="btn" layoutX="26.0" layoutY="67.0" mnemonicParsing="false" prefHeight="23.0" prefWidth="223.0" text="lotto" />
+            <Label id="lbl1" layoutX="26.0" layoutY="28.0" prefHeight="14.0" prefWidth="41.0" text="__" />
+            <Label id="lbl2" layoutX="67.0" layoutY="28.0" prefHeight="14.0" prefWidth="41.0" text="__" />
+            <Label id="lbl3" layoutX="108.0" layoutY="28.0" prefHeight="14.0" prefWidth="41.0" text="__" />
+            <Label id="lbl4" layoutX="149.0" layoutY="28.0" prefHeight="14.0" prefWidth="41.0" text="__" />
+            <Label id="lbl5" layoutX="190.0" layoutY="28.0" prefHeight="14.0" prefWidth="41.0" text="__" />
+            <Label id="lbl6" layoutX="231.0" layoutY="28.0" prefHeight="14.0" prefWidth="41.0" text="__" />
+      </children>
+    </AnchorPane>
+  </children>
+</VBox>
